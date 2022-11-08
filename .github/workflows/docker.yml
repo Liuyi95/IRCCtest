@@ -1,4 +1,3 @@
-GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker
 name: Docker Build And Push To Docker Hub
 
 on:
